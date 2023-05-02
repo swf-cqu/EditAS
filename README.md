@@ -1,4 +1,4 @@
-# EditAss
+# EditAS
 ## Directory Structure
 - models: neural models
 - scripts: the scripts for conducting experiments
@@ -52,4 +52,4 @@ cd scripts
 git clone https://github.com/yh1105/Artifact-of-Assertion-ICSE22
 ```
 
-The results will be placed in the `dataset` directory, and can be evaluated using `EditAss/eval.py`
+The results will be placed in the `dataset` directory, and can be evaluated using `EditAS/eval.py`
