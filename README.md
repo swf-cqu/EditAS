@@ -17,7 +17,7 @@ nlg-eval --setup ${data_path}
 ```
 
 ## Download Dataset
-- Our dataset,trained model and archived can be downloaded from [here](https://www.aliyundrive.com/s/gQ5CNPwdCvR)
+- Our dataset,trained model and archived can be downloaded from [here](https://drive.google.com/drive/folders/11VxhqntpwB4JltPjckDg6F44BQ1PfWAX?usp=share_link)
 - By default, we store the dataset in `../dataset`
 
 
